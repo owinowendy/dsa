@@ -1,3 +1,4 @@
+//Design a function that reverses the digits of an integer. For example, 50 should become 5 and -12 should become -21.
 function reverseInterger(digit){
     //4565=5654
     let isNegative=false;
